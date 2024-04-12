@@ -29,4 +29,11 @@
 
 8. For github actions: 
 - create PAT (Personal Access Token) with **Full control of private repositories** and **Full control of orgs and teams, read and write org projects**
-- add to repository actions secrets key with the name `PAT` and the value of the created PAT 
+- add to repository actions secrets key with the name `PAT` and the value of the created PAT
+
+
+## VIDEO SOURCES:
+- codeowners: https://www.youtube.com/watch?v=33XFUPVwEAo&t=70s
+- PR template: https://www.youtube.com/watch?v=pacGbQoq314
+- branches: https://stackoverflow.com/questions/67543278/git-how-to-change-default-branch-for-everything-i-do
+- get deploy_key: https://www.youtube.com/watch?v=JuQhNFYMFcE
