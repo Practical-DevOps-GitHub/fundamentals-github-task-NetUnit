@@ -7,7 +7,7 @@ import re
 from functools import reduce
 
 
-################################# *** RegEx *** ################################# 
+################################ *** RegEx *** ################################ 
 def case_insensitive_input(db_fields, user_input, *args, **kwargs):
 
     '''
