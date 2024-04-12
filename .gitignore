@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+bin/
+include/
+lib/
+lib64/
+share/
+
+# else
+__init__.py
+
+# other
+share/
+bin/
+libs/
+logs/
+share/
+bin/
+dist/
+build/
+mods/
+
+# local files
+*.xlsx
+*.txt
+*.mp3
+*.psd
+*.ini
+*.json
+*.PUB
+
+# keys
+DEPLOY_KEY
